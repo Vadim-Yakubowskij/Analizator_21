@@ -10,8 +10,10 @@ namespace Analizator_21
     {
         private List<string> playershand = new List<string>();
         private int playershandprice;
+
         public void Hand()
         {
+            playershand.Add(GiveCard());
             playershand.Add(GiveCard());
             for (int i = 0; i < 2; i++)
             {
@@ -67,7 +69,6 @@ namespace Analizator_21
         public int GetPlaersHandPrice()
         {
             return playershandprice;
-
         }
     }
 }

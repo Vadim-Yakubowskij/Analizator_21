@@ -16,7 +16,6 @@ namespace Analizator_21
             string card = deck[cardindex];
             deck.RemoveAt(cardindex);
             return card;
-
         }
     }
 }
