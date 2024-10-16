@@ -1,7 +1,0 @@
-C:\Users\wadim\Documents\GitHub\Analizator_21\Analizator_21\Analizator_21\bin\Debug\Analizator_21.exe.config
-C:\Users\wadim\Documents\GitHub\Analizator_21\Analizator_21\Analizator_21\bin\Debug\Analizator_21.exe
-C:\Users\wadim\Documents\GitHub\Analizator_21\Analizator_21\Analizator_21\bin\Debug\Analizator_21.pdb
-C:\Users\wadim\Documents\GitHub\Analizator_21\Analizator_21\Analizator_21\obj\Debug\Analizator_21.csproj.AssemblyReference.cache
-C:\Users\wadim\Documents\GitHub\Analizator_21\Analizator_21\Analizator_21\obj\Debug\Analizator_21.csproj.CoreCompileInputs.cache
-C:\Users\wadim\Documents\GitHub\Analizator_21\Analizator_21\Analizator_21\obj\Debug\Analizator_21.exe
-C:\Users\wadim\Documents\GitHub\Analizator_21\Analizator_21\Analizator_21\obj\Debug\Analizator_21.pdb
